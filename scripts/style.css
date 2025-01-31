@@ -1,3 +1,3 @@
-.MissionsPageTitle {
-    color: blue;
+a[href*='Missions Selections'] {
+    color: darkblue;
 }
